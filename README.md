@@ -1,5 +1,14 @@
 # LIP for Domain-Adaptive Semantic Segmentation
 
+## Table of Contents
+
+  * [Introduction](#1-introduction)
+  * [Requirements](#2-requirements)
+  * [Download Datasets and Pre-trained model](#3-download-Datasets-and-Pre-trained-model)
+  * [The file structure](#4-the-file-structure)
+  * [Acknowledgements](#5-Acknowledgements)
+
+
 ## Environment Setup
 
 First, please install cuda version 11.0.3 available at [https://developer.nvidia.com/cuda-11-0-3-download-archive](https://developer.nvidia.com/cuda-11-0-3-download-archive). It is required to build mmcv-full later.
