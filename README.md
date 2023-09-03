@@ -1,4 +1,4 @@
-# LIP for Domain-Adaptive Semantic Segmentation
+# <p align=center>`LIP for Domain-Adaptive Semantic Segmentation`</p><!-- omit in toc -->
 
 ## Table of Contents
 
@@ -83,7 +83,7 @@ please refer to the [mmsegmentation documentation](https://mmsegmentation.readth
 and the [mmcv documentation](https://mmcv.readthedocs.ihttps://arxiv.org/abs/2007.08702o/en/v1.3.7/index.html).
 
 
-## Acknowledgements
+##  5. Acknowledgements
 
 LIP is based on the following open-source projects. We thank their
 authors for making the source code publicly available.
