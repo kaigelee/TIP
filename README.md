@@ -16,7 +16,7 @@ We appreciate your understanding and patience. Once the code is released, we wil
 
 ## 1. Introduction
 
-Pending
+ 🔥 Pending
 
 
 ## 2. Environment Setup
