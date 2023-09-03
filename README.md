@@ -3,7 +3,7 @@
 ## Table of Contents
 
   * [Introduction](#1-introduction)
-  * [Environment](#2-Environment-Setup)
+  * [Environment Setup](#2-Environment-Setup)
   * [Dataset](#3-Dataset-Setup)
   * [Framework Structure](#4-Framework-Structure)
   * [Acknowledgements](#5-Acknowledgements)
