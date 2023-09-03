@@ -3,13 +3,17 @@
 ## Table of Contents
 
   * [Introduction](#1-introduction)
-  * [Requirements](#2-requirements)
-  * [Download Datasets and Pre-trained model](#3-download-Datasets-and-Pre-trained-model)
-  * [The file structure](#4-the-file-structure)
+  * [Environment](#2-Environment-Setup)
+  * [Dataset](#3-Dataset-Setup)
+  * [Framework Structure](#4-Framework-Structure)
   * [Acknowledgements](#5-Acknowledgements)
 
+## 1. Introduction
 
-## Environment Setup
+Pending
+
+
+## 2. Environment Setup
 
 First, please install cuda version 11.0.3 available at [https://developer.nvidia.com/cuda-11-0-3-download-archive](https://developer.nvidia.com/cuda-11-0-3-download-archive). It is required to build mmcv-full later.
 
@@ -36,7 +40,7 @@ the instructions for a manual download within the script.
 sh tools/download_checkpoints.sh
 ```
 
-## Dataset Setup
+## 3. Dataset Setup
 
 **Cityscapes:** Please, download leftImg8bit_trainvaltest.zip and
 gt_trainvaltest.zip from [here](https://www.cityscapes-dataset.com/downloads/)
@@ -75,7 +79,7 @@ python tools/convert_datasets/cityscapes.py data/cityscapes --nproc 8
 python tools/convert_datasets/synthia.py data/synthia/ --nproc 8
 ```
 
-## Framework Structure
+## 4. Framework Structure
 
 This project is based on [mmsegmentation version 0.16.0](https://github.com/open-mmlab/mmsegmentation/tree/v0.16.0).
 For more information about the framework structure and the config system,
