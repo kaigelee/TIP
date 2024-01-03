@@ -1,4 +1,4 @@
-# <p align=center>`LIP for Domain-Adaptive Semantic Segmentation`</p><!-- omit in toc -->
+# <p align=center>`TIP for Domain-Adaptive Semantic Segmentation`</p><!-- omit in toc -->
 
 ## Table of Contents
 
@@ -27,8 +27,8 @@ For this project, we used python 3.8.5. We recommend setting up a new virtual
 environment:
 
 ```shell
-python -m venv ~/venv/LIP-seg
-source ~/venv/LIP-seg/bin/activate
+python -m venv ~/venv/TIP-seg
+source ~/venv/TIP-seg/bin/activate
 ```
 
 In that environment, the requirements can be installed with:
@@ -60,7 +60,7 @@ them to `data/gta`.
 The final folder structure should look like this:
 
 ```none
-LIP
+TIP
 ├── ...
 ├── data
 │   ├── cityscapes
@@ -95,7 +95,7 @@ and the [mmcv documentation](https://mmcv.readthedocs.ihttps://arxiv.org/abs/200
 
 ##  5. Acknowledgements
 
-LIP is based on the following open-source projects. We thank their
+TIP is based on the following open-source projects. We thank their
 authors for making the source code publicly available.
 
 * [DAFormer](https://github.com/lhoyer/DAFormer)
