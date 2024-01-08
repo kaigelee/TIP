@@ -20,7 +20,7 @@ As discussed in [8](https://github.com/lhoyer/MIC/issues/8), [54](https://github
 
 To this end, we will provide two versions of the code, one of which produces more stable results with smaller standard deviation and the other which produces higher performance with higher standard deviation.
 
-Note, however, that the mathematical expectation of performance is the same for both, i.e., 76.6% mIoU and 68.9% mIoU on GTA→Cityscapes and SYNTHIA→Cityscapes, respectively.
+Note, however, that the mathematical expectation of performance is the same for both, i.e., 76.6% mIoU and 68.9% mIoU on GTAV→Cityscapes and SYNTHIA→Cityscapes, respectively.
 
 ## 1. Introduction
 
