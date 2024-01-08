@@ -14,6 +14,14 @@ This code is associated with a paper currently under review. To comply with the 
 
 We appreciate your understanding and patience. Once the code is released, we will warmly welcome any feedback and suggestions. Please stay tuned for our updates!
 
+## Code Implementation Statement
+
+As discussed in [8](https://github.com/lhoyer/MIC/issues/8), [54](https://github.com/lhoyer/MIC/issues/54) and [63](https://github.com/lhoyer/MIC/issues/63), our method inherits the instability of MIC.
+
+To this end, we will provide two versions of the code, one of which produces more stable results with smaller standard deviation and the other which produces higher performance with higher standard deviation.
+
+Note, however, that the mathematical expectation of performance is the same for both.
+
 ## 1. Introduction
 
  🔥 Pending
