@@ -16,7 +16,7 @@ We appreciate your understanding and patience. Once the code is released, we wil
 
 ## Code Implementation Statement
 
-As discussed in [8](https://github.com/lhoyer/MIC/issues/8), [54](https://github.com/lhoyer/MIC/issues/54) and [63](https://github.com/lhoyer/MIC/issues/63), **our method inherits the instability of [MIC](https://github.com/lhoyer/MIC).**
+As discussed in [8](https://github.com/lhoyer/MIC/issues/8), [54](https://github.com/lhoyer/MIC/issues/54) and [63](https://github.com/lhoyer/MIC/issues/63), **our method inherits the instability of [MIC](https://github.com/lhoyer/MIC).** :cry:
 
 To this end, we will provide two versions of the code, one of which produces more stable results with smaller standard deviation and the other which produces higher performance with higher standard deviation.
 
